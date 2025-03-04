@@ -18,4 +18,6 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 
-![](https://github.com/Sushil2k4/Sushil2k4/blob/main/FireBar.gif)
+<div style="text-align: center;">
+    <img src="https://github.com/Sushil2k4/Sushil2k4/blob/main/FireBar.gif" style="width: 100%; height: auto;" />
+</div>
