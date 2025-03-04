@@ -23,5 +23,5 @@
 
 
 <div style="text-align: center;">
-    <img src="https://github.com/Sushil2k4/Sushil2k4/blob/main/FireBar.gif" style="width: auto; height: auto;" />
+    <img src="https://github.com/Sushil2k4/Sushil2k4/blob/main/FireBar.gif" style="width: 200px; height: auto;" />
 </div>
